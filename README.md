@@ -1,7 +1,7 @@
 ## Hi, I'm Alberto 👋
 
 # 💫 About Me:
-⚡ Nuclear physicist<br>🔭 I’m interested in machine learning and AI projects<br>🌱 I’m currently learning about LLMs and how to build them
+⚡ Nuclear physicist<br>🔭 Interested in machine learning and AI projects<br>🌱 Currently learning about LLMs and how to build them
 
 
 ## 🌐 Socials:

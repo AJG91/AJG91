@@ -4,7 +4,7 @@
 ⚡ Nuclear physicist<br>
 🔭 Interested in machine learning and AI projects<br>
 🌱 Currently learning about LLMs and how to build them<br>
-🌐 Check out my [Github Pages](https://ajg91.github.io/)
+🌐 Check out my [website](https://ajg91.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertojosegarcia) 
